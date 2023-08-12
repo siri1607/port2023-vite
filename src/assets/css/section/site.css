@@ -15,7 +15,6 @@
     color: var(--black100);
     border-bottom: 0.4vw solid var(--black100);
     margin-bottom: 100px;
-    z-index: 1000;
 }
 .site_title em {
     font-size: 1.25rem;
@@ -107,6 +106,7 @@
         font-size: 30px;
         height: auto;
         top: 68px;
+        z-index: 1000;
         background-color: var(--mainBg-color);
     }
     .site_item.s1 {
@@ -126,7 +126,7 @@
         left: 20px;
         top: 20px;
     }
-    .site_item .text>div {
+    .site_item .text > div {
         font-size: 26px;
     }
     .site_item .info {
