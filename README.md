@@ -10,7 +10,7 @@
 4. [next.js](https://github.com/siri1607/port2023-next)를 이용하여 사이트를 제작
 
 ## 완성작 보기
-미리보기:
+미리보기: https://port2023-vite-siri.netlify.app
 
 ## 사용 스펙
 - vite(https://ko.vitejs.dev/) 를 사용해 사이트를 번들링하고 관리
